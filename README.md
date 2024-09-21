@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **balajics018@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zM5qesoYcleURkXxoHwZ0m9mYSsWw6y8/view?usp=drivesdk](https://drive.google.com/file/d/1zM5qesoYcleURkXxoHwZ0m9mYSsWw6y8/view?usp=drivesdk)
-
+- 📄 Here <a href="https://drive.google.com/file/d/1zM5qesoYcleURkXxoHwZ0m9mYSsWw6y8/view?usp=drivesdk">My Resume</a>
 - ⚡ Fun fact **Tech Leads the World!**
 
 <h3 align="left">Connect with me:</h3>
