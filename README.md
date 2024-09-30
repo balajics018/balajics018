@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balajics018&label=Profile%20views&color=0e75b6&style=flat" alt="balajics018" /> </p>
 
-- 🔭 I’m currently working on **Airline services**
+- 🔭 I’m currently working on **Airline Booking services**
 
-- 🌱 I’m currently learning **Springboot with Microservices**
+- 🌱 I’m currently learning **Springboot(cloud) with Microservices**
 
 - 💬 Ask me about **Java,AWS,React,Javascript,Microservices**
 
