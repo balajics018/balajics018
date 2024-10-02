@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **balajics018@gmail.com**
 
-- 📄 Here <a href="https://drive.google.com/file/d/1zM5qesoYcleURkXxoHwZ0m9mYSsWw6y8/view?usp=drivesdk">My Resume</a>
+- 📄 Here <a href="https://drive.google.com/file/d/1I7f7Tvh15z0zsZNvFPKbaoBxoBkmvalN/view?usp=sharing">My Resume</a>
 - ⚡ Fun fact **Tech Leads the World!**
 
 <h3 align="left">Connect with me:</h3>
